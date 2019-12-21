@@ -1,0 +1,1 @@
+{"version":3,"sources":["FeedbackOptions.module.css","main.css"],"names":[],"mappings":"AAAA,mCACE,eACF,CCFA,KACE,WAAY,CACZ,WAAY,CACZ,YAAa,CACb,qCACF","file":"main.7bbf32be.chunk.css","sourcesContent":[".btn:active {\n  background: rgb(0, 68, 255);\n}\n","body {\n  width: 500px;\n  margin: auto;\n  padding: 30px;\n  border: 2px solid #808080da;\n}\n"]}
